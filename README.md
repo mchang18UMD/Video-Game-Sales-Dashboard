@@ -1,5 +1,8 @@
 # Video Game Sales Dashboard
 
+**Name:** Michael Chang  
+**Course:** INST 630  
+
 ## Project Overview
 
 The Video Game Sales Dashboard allows users to explore historical video game sales data. Users can search for video games, filter information, compare regional sales, and explore sales data through visualizations.
@@ -41,7 +44,3 @@ The Video Game Sales Dashboard allows users to explore historical video game sal
 2. Install the Live Server extension.
 3. Right-click on index.html.
 4. Select Open with Live Server.
-
-## Author
-
-Michael Chang | INST 630 Final Project
