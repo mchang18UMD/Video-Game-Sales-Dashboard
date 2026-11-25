@@ -1,7 +1,7 @@
 # Video Game Sales Dashboard
 
 **Name:** Michael Chang  
-**Course:** INST 630  
+**Course:** INST630 FALL 2026
 
 ## Project Overview
 
